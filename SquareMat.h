@@ -11,6 +11,7 @@ private:
     int **data;
     int ndim;
 
+    //TamirEdit
 public:
     // Constructor
     SquareMat(int dim);
